@@ -11,7 +11,7 @@ import Palettes from '../../models/enums/Color/Palettes';
 const useImageEditor = () => {
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
-  const {openFileSelector, file, input} = useHiddenFileInput('images/*');
+  const {openFileSelector, file, input} = useHiddenFileInput('image/*');
   const imageOrigin = useFileReader(file);
   const {
     applyFilter,
