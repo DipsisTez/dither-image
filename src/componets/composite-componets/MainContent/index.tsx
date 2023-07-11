@@ -1,9 +1,9 @@
 // MainContent.tsx
 import {FC} from 'react';
-import MainContentProps from '../../models/types/props/components/MainContentProps';
+import MainContentProps from '../../../models/types/props/components/MainContentProps';
 
-import Section from '../Section';
-import BoxColor from '../BoxColor';
+import Section from '../../utils-componts/Section';
+import BoxColor from '../../utils-componts/BoxColor';
 
 import Button from '@mui/material/Button';
 import TuneIcon from '@mui/icons-material/Tune';

@@ -1,9 +1,10 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
-import Header from './componets/Header';
+import Header from './componets/utils-componts/Header';
+import Footer from './componets/utils-componts/Footer';
+
 import ImageEditor from './pages/ImageEditor';
-import Footer from './componets/Footer';
 import About from './pages/About';
 
 const App = () => {

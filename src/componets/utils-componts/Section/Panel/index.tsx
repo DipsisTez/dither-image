@@ -1,5 +1,5 @@
 import * as React from 'react';
-import SectionPanelProps from '../../../models/types/props/components/SectionPanelProps';
+import SectionPanelProps from '../../../../models/types/props/components/SectionPanelProps';
 
 import './style.css';
 

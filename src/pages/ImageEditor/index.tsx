@@ -1,5 +1,5 @@
 import React from 'react';
-import MainContent from '../../componets/MainContent';
+import MainContent from '../../componets/composite-componets/MainContent';
 import useImageEditor from '../../hooks/composite-hooks/useImageEditor';
 
 import './style.css';

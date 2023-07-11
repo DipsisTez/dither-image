@@ -1,6 +1,6 @@
 import * as React from 'react';
-import SectionImageProps from '../../../models/types/props/components/SectionImageProps';
 import WallpaperIcon from '@mui/icons-material/Wallpaper';
+import SectionImageProps from '../../../../models/types/props/components/SectionImageProps';
 
 import {strings} from './strings';
 import './style.css';

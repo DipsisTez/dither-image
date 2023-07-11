@@ -1,5 +1,5 @@
 import * as React from 'react';
-import SectionTitleProps from '../../../models/types/props/components/SectionTitleProps';
+import SectionTitleProps from '../../../../models/types/props/components/SectionTitleProps';
 
 import './style.css';
 
