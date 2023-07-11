@@ -19,7 +19,7 @@ const useDownloadFile = (): UseDownloadFile => {
     setError(null);
     try {
       const response = await fetch(url);
-      if (!response.ok) throw new Error('Ошибка загрузки файла');
+      if (!response.ok) throw new Error('Error load file');
       const blob = await response.blob();
       const reader = new FileReader();
       reader.onload = () => {
