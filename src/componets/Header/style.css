@@ -1,0 +1,43 @@
+:root {
+    --navbarBackground: rgba(22, 22, 22, 0.952);
+    --navbarLastButtonBorder: rgba(223, 222, 222, 0.705);
+}
+
+.header {
+    display: flex;
+    background-color: var(--navbarBackground);
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar *{
+    margin-left: 5%;
+}
+
+.navbar-item {
+    padding: calc(2px + 1vmin);
+    color: rgb(223, 214, 214);
+    font-size: max(18px, 2vmin);
+}
+
+.navbar-item:link { text-decoration: none; }
+
+.navbar-item:visited { text-decoration: none; }
+
+.navbar-item:hover { 
+    text-decoration: none;
+    color: rgb(92, 139, 161);
+    transition: 0.65s;
+}
+
+.navbar-item:active { text-decoration: none; }
+
+.navbar-item-end {
+    margin-left: auto;
+    margin-right: 2%;
+}

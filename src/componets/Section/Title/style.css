@@ -1,0 +1,8 @@
+:root {
+    --titleColor: rgba(61, 60, 60, 0.952);
+}
+
+.App-section-title {
+    color: var(--titleColor);
+    margin: calc(6px + 1vmin);
+}

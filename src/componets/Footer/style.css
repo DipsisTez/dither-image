@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    top: calc(100% - ((30px + 2vmin) + (1vmin)));
+    height: calc(30px + 2vmin);
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.footer-text {
+    color: rgb(36, 32, 36);
+    margin-left: 2vmin;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: calc(2px + 2vmin);
+}

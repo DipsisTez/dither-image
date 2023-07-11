@@ -1,0 +1,35 @@
+.selected-colors {
+    display: flex;
+    border: 1px solid rgb(116, 116, 116);
+}
+
+.Color-item {
+    position: relative;
+    width: calc(4px + 2vmin);
+    height: calc(4px + 2vmin);
+}
+
+.Color-item:hover {
+    cursor: pointer;
+}
+
+.Color-red {
+    background-color: red;
+}
+
+.Color-blue {
+    background-color: blue;
+}
+
+
+.Color-green {
+    background-color: green;
+}
+
+.Color-black {
+    background-color: black;
+}
+
+.Color-white {
+    background-color: white;
+}

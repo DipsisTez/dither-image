@@ -1,0 +1,5 @@
+.section {
+    width: 40%;
+    max-width: 512px;
+    padding: min(5px, 1vmin);
+}
