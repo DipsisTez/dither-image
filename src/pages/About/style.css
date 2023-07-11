@@ -1,0 +1,17 @@
+:root {
+    --boxBorderColor: rgba(73, 64, 64, 0.623);
+}
+
+.Box {
+    display: flex;
+    flex-direction: column;
+    margin: 2vmin;
+    border: 1px solid var(--boxBorderColor);
+    border-radius: 5px;
+    padding: 2vmin;
+}
+
+.Description {
+    margin-left: 2vmax;
+    font-size: calc(7px + 1vmin);
+}
