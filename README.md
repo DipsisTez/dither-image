@@ -7,7 +7,7 @@ This open source project was created to enable the reproduction of the filter ov
 ## Notice
 
 > This product is my own development created on creative initiative.
-> This is not a commercial product    
+> This is not a commercial product.    
 
 
 ## _This project is still a work in progress._
