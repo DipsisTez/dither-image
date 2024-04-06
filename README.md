@@ -37,6 +37,7 @@ This open source project was created to enable the reproduction of the filter ov
   - ```npm run start```
   - Alternatively, you can write ```npm install --global serve``` after ```serve build```.
 
+<br><br>
 
 <h1 align="center">💫 About Me:</h1>
 
