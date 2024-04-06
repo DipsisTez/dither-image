@@ -12,7 +12,7 @@ This open source project was created to enable the reproduction of the filter ov
 
 ## _This project is still a work in progress._
 
-![Home](./_screens_shoot_/01.png)
+![Home](./_screens_shoot_/01.PNG)
 
 
 # Features
@@ -31,11 +31,11 @@ This open source project was created to enable the reproduction of the filter ov
 
 - How do I install the project?
   - Open a terminal in the root directory and enter the following commands.
-  - <b>npm install</b>
-  - <b>npm build</b>
+  - ```npm install```
+  - ```npm build```
 - How to run or test a project?
-  - <b>npm run start</b>
-  - Alternatively, you can write <b>npm install --global serve</b> after <b>serve build</b>.
+  - ```npm run start```
+  - Alternatively, you can write ```npm install --global serve``` after ```serve build```.
 
 
 <h1 align="center">💫 About Me:</h1>
